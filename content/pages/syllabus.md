@@ -2,8 +2,6 @@
 content_type: page
 description: The syllabus section contains information on course description, instructor,
   schedule, requirements and the grading policy.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -20,7 +18,7 @@ Course Description
 
 This graduate seminar is a 6 unit subject that is taught in a lecture and lab exercise format. The subject matter is tailored to introduce Environmental Engineering students to the use and potential of Geographic Information Systems in their discipline. Lectures will cover the general concepts of GIS use and introduce the material in the exercises and exercises will introduce students to the practical application of GIS. Lab exercises will frequently run past the class hours and students are expected to complete the exercises before the next class. There will be readings from related resources which will be announced in class.
 
-Students will use ArcGIS 8.3 during the term. This software is available to MIT students, but outside users will have to purchase it [here](http://www.esri.com/software/arcgis/).
+Students will use ArcGIS 8.3 during the term. This software is available to MIT students, but outside users will have to purchase it {{% resource_link "af4f40e0-e53d-41b0-9679-7fc0f6921e89" "here" %}}.
 
 Instructor
 ----------
